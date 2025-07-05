@@ -4,6 +4,10 @@ An MCP (Model Context Protocol) server that provides access to LiveAgent API fun
 
 ![LiveAgent MCP Server Demo](demo.gif)
 
+## Custom MCP Server Development
+We develop MCP Servers for our customers. If you need MCP server for your own system similar to this MCP server, please contact us (https://www.flowhunt.io/contact/).
+Read more how we develop MCP Servers for our customers: https://www.flowhunt.io/services/mcp-server-development/
+
 ## Features
 
 - **Ticket Management**: List, create, update, and search tickets
