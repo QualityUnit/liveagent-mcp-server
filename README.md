@@ -2,6 +2,8 @@
 
 An MCP (Model Context Protocol) server that provides access to LiveAgent API functionality, enabling AI assistants to interact with your LiveAgent helpdesk system.
 
+![LiveAgent MCP Server Demo](demo.gif)
+
 ## Features
 
 - **Ticket Management**: List, create, update, and search tickets
@@ -100,6 +102,10 @@ Use the create_ticket tool with:
 ```
 Use the search_tickets tool with query "refund"
 ```
+
+## Status Codes
+
+The MCP server automatically translates between human-readable values and LiveAgent API codes. See [STATUS_CODES.md](STATUS_CODES.md) for a complete reference of all status codes, channel types, and other coded values used in the LiveAgent API.
 
 ## Development
 
